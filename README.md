@@ -1,1 +1,3 @@
 # tugaskkpimam-
+
+JANGAN DI COPAS....PAHAMIN AJA HAHA
