@@ -1,0 +1,263 @@
+{
+   "__collections__":{
+      "berhasil_bayar":{
+         "3GJYbN1m6IqPYgVVgHve":{
+            "harga":"89000000",
+            "tempat_wisata":"Australia",
+            "kode_transaksi":"3GJYbN1m6IqPYgVVgHve",
+            "keterangan_wisata":"dimakan kangguru",
+            "alamat_email":"a@gmail.com",
+            "nama_wisata":"Australia extrem",
+            "__collections__":{
+               
+            }
+         },
+         "JIjIy9anaR2zR3MXOdM3":{
+            "status":"ggg",
+            "__collections__":{
+               
+            }
+         },
+         "Q5DXg3AIHGwp2lWEZ76O":{
+            "nama_wisata":"ggg",
+            "harga":"30000",
+            "kode_transaksi":"Q5DXg3AIHGwp2lWEZ76O",
+            "keterangan_wisata":"ccccfc cvggg vvvvvgvggggvvvvvvvvvvvvhhhhhvvvvvvhg GCYCYCYCYCCYCYCYCUCUCUCYCYCYCCUCUCUC gc cucu-cucu cuy cc ccy",
+            "alamat_email":"a@gmail.com",
+            "tempat_wisata":"vgjj",
+            "__collections__":{
+               
+            }
+         },
+         "VlrlJ9TK06O6ku6ArP0n":{
+            "keterangan_wisata":"gt",
+            "nama_wisata":"cc",
+            "harga":"1000",
+            "alamat_email":"a@gmail.com",
+            "kode_transaksi":"VlrlJ9TK06O6ku6ArP0n",
+            "tempat_wisata":"gggg",
+            "__collections__":{
+               
+            }
+         },
+         "m5YmqqFcKqHlXQBfDzd5":{
+            "status":"Bali land",
+            "__collections__":{
+               
+            }
+         }
+      },
+      "order":{
+         "3GJYbN1m6IqPYgVVgHve":{
+            "harga_wisata":"89000000",
+            "alamat_email":"a@gmail.com",
+            "status":"true",
+            "kode_transaksi":"3GJYbN1m6IqPYgVVgHve",
+            "dibuat":{
+               "__datatype__":"timestamp",
+               "value":{
+                  "_seconds":1625008363,
+                  "_nanoseconds":359000000
+               }
+            },
+            "keterangan_wisata":"dimakan kangguru",
+            "tempat_wisata":"Australia",
+            "tanggal_berangkat":"30-7-2021",
+            "nama_wisata":"Australia extrem",
+            "keterangan":"berhasil",
+            "waktu_pesan":"08-30-2021",
+            "__collections__":{
+               
+            }
+         },
+         "jkJfYcdg3nxrkfdRjkdg":{
+            "tempat_wisata":"haha",
+            "keterangan":"gagal",
+            "keterangan_wisata":"ggaa",
+            "nama_wisata":"jajjaa",
+            "id_order":"jkJfYcdg3nxrkfdRjkdg",
+            "alamat_email":"a@gmail.com",
+            "tanggal_berangkat":"30-6-2021",
+            "waktu_pesan":"06-30-2021",
+            "Image":"https://firebasestorage.googleapis.com/v0/b/kkpku-e7844.appspot.com/o/bukti_bayar%2F1625050621014.jpg?alt=media&token=9fb9255d-db59-4ed2-b987-c806a11a10f9",
+            "nama_pemesan":"g",
+            "dibuat":{
+               "__datatype__":"timestamp",
+               "value":{
+                  "_seconds":1625048442,
+                  "_nanoseconds":103000000
+               }
+            },
+            "status":"false",
+            "telepon_pemesan":"5",
+            "harga_wisata":"20",
+            "__collections__":{
+               
+            }
+         },
+         "oEQlNG19wWa1L0jA5Yrr":{
+            "waktu_pesan":"06-30-2021",
+            "keterangan_wisata":"dimakan kangguru",
+            "harga_wisata":"89000000",
+            "keterangan":"menunggu pembayaran",
+            "tanggal_berangkat":"30-7-2021",
+            "nama_wisata":"Australia extrem",
+            "tempat_wisata":"Australia",
+            "status":"false",
+            "dibuat":{
+               "__datatype__":"timestamp",
+               "value":{
+                  "_seconds":1625045191,
+                  "_nanoseconds":2000000
+               }
+            },
+            "alamat_email":"a@gmail.com",
+            "__collections__":{
+               
+            }
+         },
+         "qqJmvV5hlnokd8Sh70TI":{
+            "nama_wisata":"Australia extrem",
+            "keterangan_wisata":"dimakan kangguru",
+            "status":"false",
+            "tanggal_berangkat":"30-7-2021",
+            "alamat_email":"a@gmail.com",
+            "dibuat":{
+               "__datatype__":"timestamp",
+               "value":{
+                  "_seconds":1625007409,
+                  "_nanoseconds":224000000
+               }
+            },
+            "keterangan":"menunggu pembayaran",
+            "waktu_pesan":"06-30-2021",
+            "harga_wisata":"89000000",
+            "tempat_wisata":"Australia",
+            "__collections__":{
+               
+            }
+         }
+      },
+      "produk":{
+         "clVN5WHwBAJ2T9pewJVI":{
+            "nama_wisata":"jajjaa",
+            "tempat_wisata":"haha",
+            "gambar_wisata":"https://firebasestorage.googleapis.com/v0/b/kkpku-e7844.appspot.com/o/gambar_wisata%2F1625045945062.jpg?alt=media&token=83034ba0-845e-4abf-883b-a7c055928c1d",
+            "keterangan_wisata":"ggaa",
+            "harga_wisata":"20",
+            "keterangan":"tersedia",
+            "dekripsi_wisata":"hshshs",
+            "__collections__":{
+               
+            }
+         },
+         "pT4QnByve3qas0cXQz0e":{
+            "keterangan_wisata":"gt",
+            "keterangan":"tersedia",
+            "tempat_wisata":"gggg",
+            "nama_wisata":"cc",
+            "gambar_wisata":"https://firebasestorage.googleapis.com/v0/b/kkpku-e7844.appspot.com/o/gambar_wisata%2F1624919647524.jpg?alt=media&token=0854c0e9-b9f7-4a45-a48e-c818028d0364",
+            "dekripsi_wisata":"cc",
+            "harga_wisata":"1000",
+            "__collections__":{
+               
+            }
+         },
+         "q4acZKqzcztsXqEzzbxq":{
+            "gambar_wisata":"https://firebasestorage.googleapis.com/v0/b/kkpku-e7844.appspot.com/o/gambar_wisata%2F1625006904498.jpg?alt=media&token=48a8de08-60da-43dc-bd2c-99704e399a64",
+            "dekripsi_wisata":"banyak kangguru",
+            "keterangan":"tersedia",
+            "harga_wisata":"89000000",
+            "keterangan_wisata":"dimakan kangguru",
+            "nama_wisata":"Australia extrem",
+            "tempat_wisata":"Australia",
+            "__collections__":{
+               
+            }
+         }
+      },
+      "user":{
+         "8Kk8afTZdDPaWmsJcaYY2qSBQKQ2":{
+            "biodata":"biodata",
+            "username":"bshahha",
+            "email":"yuhuu@gmail.com",
+            "telepon":"0555",
+            "__collections__":{
+               
+            }
+         },
+         "LrDkaQ8jk7hC9oltG4Yipm3etPC2":{
+            "telepon":"08555",
+            "username":"czdfhgfty",
+            "email":"fff@gmail.com",
+            "biodata":"biodata",
+            "__collections__":{
+               
+            }
+         },
+         "PIpxarJ1SOMNBmYiDACfwAzoHst2":{
+            "username":"yuhuuuu",
+            "email":"y@gmail.com",
+            "biodata":"biodata",
+            "telepon":"08888887",
+            "__collections__":{
+               
+            }
+         },
+         "RyBXDlwhzshBrDsHy2NRetQ5xNR2":{
+            "username":"ahhahabagaga",
+            "email":"imammusadad@gmail.com",
+            "biodata":"biodata",
+            "telepon":"0488454",
+            "__collections__":{
+               
+            }
+         },
+         "Sx2OONGO3lM69ad2Ix4KYe9drAw1":{
+            "username":"admin",
+            "telepon":"07845",
+            "email":"admin@gmail.com",
+            "biodata":"biodata",
+            "__collections__":{
+               
+            }
+         },
+         "VDPoJ9fF5mXSnCOxfHxAQiDH0dh1":{
+            "username":"ctggf",
+            "email":"gg@gmail.com",
+            "biodata":"biodata",
+            "telepon":"885552",
+            "__collections__":{
+               
+            }
+         },
+         "ggiOdfLlPRN5MZgWTx0pNlVS1sl1":{
+            "username":"hjgyjh",
+            "email":"h@gmail.com",
+            "biodata":"biodata",
+            "telepon":"08585",
+            "__collections__":{
+               
+            }
+         },
+         "jgZL72kKihUedV5BpmoCBv8IHuK2":{
+            "email":"yuhu@gmail.com",
+            "biodata":"biodata",
+            "telepon":"05555",
+            "username":"ygfttcf",
+            "__collections__":{
+               
+            }
+         },
+         "pboGafacSxQQ0FheQEdInvY6KRR2":{
+            "username":"hhaha",
+            "biodata":"biodata",
+            "telepon":"08557",
+            "email":"a@gmail.com",
+            "__collections__":{
+               
+            }
+         }
+      }
+   }
+}
